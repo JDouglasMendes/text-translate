@@ -1,0 +1,7 @@
+
+TextTranslate/TextTranslate/obj/*
+TextTranslate/TextTranslate/bin/*
+TextTranslate/TextTranslate.Console/obj/*
+TextTranslate/TextTranslate.Console/bin/*
+TextTranslate/TextTranslate.Console/appsettings.json
+TextTranslate/.vs/*
